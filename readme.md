@@ -1,4 +1,4 @@
-# ChatClipboard
+# ChatClipboard 
 
 ## English Introduction
 
@@ -19,7 +19,11 @@
 ### click the button, wait a few seconds.
 ### get the answer from ChatGPT by ctrl v.
 
-## Website
+## Image
+
+![ChatClipboard](img/hello.jpeg)
+
+![ChatClipboard](img/demo.jpeg)
 
 
 
